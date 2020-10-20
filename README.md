@@ -43,7 +43,7 @@ Embora me chame "Lucas Costa", levo por apelido o nome "Evaristo" desde o perío
 </a>
 
 <a href="https://github.com/evaristocosta/evaristocosta">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=evaristocosta&layout=compact&title_color=082C32" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=evaristocosta&layout=compact&title_color=082C32&hide_progress=true" />
 </a>
 
 <a href="https://github.com/evaristocosta/pesquisadorDeHinos">
