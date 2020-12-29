@@ -36,9 +36,6 @@ Embora me chame "Lucas Costa", levo por apelido o nome "Evaristo" desde o perío
 ## Os dados
 
 <a href="https://github.com/evaristocosta/evaristocosta">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evaristocosta&layout=compact&hide=shell,makefile&langs_count=8&title_color=082C32" />
-</a>
-<a href="https://github.com/evaristocosta/evaristocosta">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=evaristocosta&show_icons=true&line_height=27&count_private=true&title_color=082C32&include_all_commits=true" alt="evaristocosta's GitHub Stats" />
 </a>
 
@@ -50,7 +47,6 @@ Embora me chame "Lucas Costa", levo por apelido o nome "Evaristo" desde o perío
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=evaristocosta&repo=pesquisadorDeHinos&title_color=082C32" />
 </a>
 
-
 <a href="https://github.com/evaristocosta/harmonizadorAutomaticoMusical">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=evaristocosta&repo=harmonizadorAutomaticoMusical&title_color=082C32" />
-</a>   
+</a>
