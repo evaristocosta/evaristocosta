@@ -36,17 +36,17 @@ Embora me chame "Lucas Costa", levo por apelido o nome "Evaristo" desde o perío
 ## Os dados
 
 <a href="https://github.com/evaristocosta/evaristocosta">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=evaristocosta&show_icons=true&line_height=27&count_private=true&title_color=082C32&include_all_commits=true" alt="evaristocosta's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?theme=nord&username=evaristocosta&show_icons=true&line_height=27&count_private=true&include_all_commits=true" alt="evaristocosta's GitHub Stats" />
 </a>
 
 <a href="https://github.com/evaristocosta/evaristocosta">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=evaristocosta&layout=compact&title_color=082C32&hide_progress=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?theme=nord&username=evaristocosta&layout=compact&hide_progress=true" />
 </a>
 
 <a href="https://github.com/evaristocosta/pesquisadorDeHinos">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=evaristocosta&repo=pesquisadorDeHinos&title_color=082C32" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=nord&username=evaristocosta&repo=pesquisadorDeHinos" />
 </a>
 
 <a href="https://github.com/evaristocosta/harmonizadorAutomaticoMusical">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=evaristocosta&repo=harmonizadorAutomaticoMusical&title_color=082C32" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=nord&username=evaristocosta&repo=harmonizadorAutomaticoMusical" />
 </a>
