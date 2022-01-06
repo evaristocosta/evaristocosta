@@ -27,14 +27,18 @@ Embora me chame "Lucas Costa", levo por apelido o nome "Evaristo" desde o perío
 
 ## Onde me encontrar
 
-[![feito por Pixel Perfect](003-facebook.png)](https://www.facebook.com/lucascosta74)
-[![feito por Pixel Perfect](001-instagram.png)](https://www.instagram.com/lucas.costa74/)
-[![feito por Pixel Perfect](002-linkedin.png)](https://www.linkedin.com/in/lucas-costa-6ab844117/)
-[![feito por Pixel Perfect](004-twitter.png)](https://twitter.com/luccosta74)
+<div>
+  <a href="https://www.facebook.com/lucascosta74" target="_blank"><img src="https://img.shields.io/badge/-Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/lucas.costa74/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:lucascosta74@gmail.com"><img src="https://img.shields.io/badge/Gmail-DB4437?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lucas-costa-6ab844117/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://twitter.com/luccosta74" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+</div>
 
 
 ## Os dados
 
+<div>
 <a href="https://github.com/evaristocosta/evaristocosta">
   <img align="center" src="https://github-readme-stats.vercel.app/api?theme=nord&username=evaristocosta&show_icons=true&line_height=27&count_private=true&include_all_commits=true" alt="evaristocosta's GitHub Stats" />
 </a>
@@ -42,11 +46,9 @@ Embora me chame "Lucas Costa", levo por apelido o nome "Evaristo" desde o perío
 <a href="https://github.com/evaristocosta/evaristocosta">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?theme=nord&username=evaristocosta&layout=compact&hide_progress=true" />
 </a>
+</div>
 
-<a href="https://github.com/evaristocosta/pesquisadorDeHinos">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=nord&username=evaristocosta&repo=pesquisadorDeHinos" />
-</a>
 
-<a href="https://github.com/evaristocosta/harmonizadorAutomaticoMusical">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?theme=nord&username=evaristocosta&repo=harmonizadorAutomaticoMusical" />
-</a>
+
+![Snake animation](https://github.com/evaristocosta/evaristocosta/blob/output/github-contribution-grid-snake.svg)
+
