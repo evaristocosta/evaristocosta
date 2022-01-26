@@ -38,17 +38,18 @@ Embora me chame "Lucas Costa", levo por apelido o nome "Evaristo" desde o perío
 
 ## Os dados
 
-<div>
-<a href="https://github.com/evaristocosta/evaristocosta">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?theme=nord&username=evaristocosta&show_icons=true&line_height=27&count_private=true&include_all_commits=true" alt="evaristocosta's GitHub Stats" />
-</a>
+![](https://github-readme-stats.vercel.app/api?username=evaristocosta&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=evaristocosta&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=evaristocosta&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<a href="https://github.com/evaristocosta/evaristocosta">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?theme=nord&username=evaristocosta&layout=compact&hide_progress=true" />
-</a>
-</div>
+## Troféus
 
+![](https://github-profile-trophy.vercel.app/?username=evaristocosta&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 
+### Ispire-se
 
-![Snake animation](https://github.com/evaristocosta/evaristocosta/blob/output/github-contribution-grid-snake.svg)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+### Alegre-se
+
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
