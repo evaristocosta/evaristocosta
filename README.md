@@ -5,7 +5,7 @@
 
 Este é o repositório de Lucas Costa, quem vos fala e escreve.
 
-Sou Engenheiro de Computação por graduação, desenvolvedor e programador por profissão, cientísta por sonho e músico por amor.
+Sou Engenheiro de Computação por graduação, mestre em Ciência da Computação, cientista de dados por profissão e sonho e músico por amor.
 
 ## Nome de usuário
 
