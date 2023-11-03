@@ -1,11 +1,8 @@
-![Header](assinatura.png "Header")
-
-
 # Bem-vindo!
 
 Este é o repositório de Lucas Costa, quem vos fala e escreve.
 
-Sou Engenheiro de Computação por graduação, mestre em Ciência da Computação, cientista de dados por profissão e sonho e músico por amor.
+Sou Engenheiro de Computação por graduação, mestre em Ciência da Computação, cientista de dados por profissão e sonho, e músico por amor.
 
 ## Nome de usuário
 
