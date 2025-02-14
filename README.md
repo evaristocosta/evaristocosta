@@ -1,12 +1,12 @@
-# Welcome / Willkommen
+# Hello, there
 
-This is the repository of Lucas Costa, who speaks and writes to you.
+This is the repository of Lucas Costa, the one speaking and writing to you.
 
-Experienced Computer Engineer and Master's in Computer Science with 7+ years of experience in data science, AI techniques, and agile methodologies.
+PhD researcher in AI applied to Software Engineering, with over eight years of experience in data science, analysis, AI techniques, and agile methodologies. Proficient in data manipulation, extraction, analysis, and visualization using modern technologies. Extensive scientific experience with publications in Artificial Intelligence, Machine Learning, Data Classification, and Prediction.
 
 ## Username
 
-Although my name is "Lucas Costa", I have been nicknamed "Evaristo" since my undergraduate years, for reasons that I don't even know. The fact is: the nickname is so strong that many of my acquaintances probably don't even remember the real one. For this and other reasons, my username became "evaristocosta".
+Although my real name is Lucas Costa, I’ve been nicknamed "Evaristo" since my undergraduate years—for reasons even I don’t know. The nickname stuck so well that many of my acquaintances probably don’t even remember my real name. Because of this, and for other reasons, I chose "evaristocosta" as my username.
 
 ## Tech Stack
 
@@ -33,15 +33,10 @@ Although my name is "Lucas Costa", I have been nicknamed "Evaristo" since my und
 </div>
 
 
-## Data
+## Some data
 
-![](https://github-readme-stats.vercel.app/api?username=evaristocosta&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=evaristocosta&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=evaristocosta&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-## Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=evaristocosta&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 
 ## Get inspired
 
